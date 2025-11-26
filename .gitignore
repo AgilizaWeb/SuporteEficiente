@@ -1,0 +1,57 @@
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Arquivos de ambiente
+frontend/.env.example
+frontend/.env
+frontend/.env.local
+frontend/.env.development
+
+# Uploads e arquivos temporários
+backend/src/uploads/
+backend/.env
+backend/src/generated/
+backend/public/*company*/
+backend/package-lock.json
+frontend/package-lock.json
+backend/public/*.png
+backend/public/*.mp3
+backend/public/*.wav
+backend/public/*.ogg
+backend/public/*.mp4
+backend/public/*.mov
+backend/public/*.avi
+backend/public/*.mkv
+backend/public/*.flv
+backend/public/*.opus
+
+# Logs
+logs/
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Cache
+.cache/
+frontend/.turbo/
+frontend/.eslintcache
+
+# Arquivos de sistema
+desktop.ini
+*.zip
+*.rar
+
+# Arquivos de certificados (se houver)
+*.pem
+*.key
+*.crt
