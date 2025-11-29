@@ -10,8 +10,8 @@
   
   **Sistema profissional de atendimento ao cliente via WhatsApp com automação inteligente e recursos avançados**
   
-  <!-- [🛒 Comprar Licença](https://painel.suporteeficiente.com.br) --> 
-  [💼 Programa de Revenda](https://painel.suporteeficiente.com.br/register.php) • [📧 Suporte](https://chat.whatsapp.com/JM4oOAc9cxH8WzspShRz9q?mode=hqrt1)
+  [🛒 Comprar Licença](https://painel.suporteeficiente.com.br/?view=register&role=cliente) 
+  [💼 Programa de Revenda](https://painel.suporteeficiente.com.br/?view=register&role=revenda) • [📧 Suporte](https://chat.whatsapp.com/JM4oOAc9cxH8WzspShRz9q?mode=hqrt1)
   
 </div>
 
@@ -498,7 +498,7 @@ O **SuporteEficiente** é desenvolvido por uma equipe dedicada de profissionais:
   **Desenvolvido com ❤️ para transformar o atendimento ao cliente**
   
   <!-- [🛒 Comprar Licença Agora](https://painel.suporteeficiente.com.br) --> 
-  [💼 Seja um Revendedor](https://painel.suporteeficiente.com.br/register.php)
+  [💼 Seja um Revendedor](https://painel.suporteeficiente.com.br/?view=register&role=revenda)
   
   ⭐ **Transforme seu atendimento hoje mesmo!**
   
