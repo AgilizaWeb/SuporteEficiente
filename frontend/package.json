@@ -69,6 +69,7 @@
     "react-to-print": "^3.0.2",
     "react-toastify": "9.0.0",
     "react-trello": "^2.2.11",
+    "react-xls": "^0.1.1",
     "reactflow": "^11.11.4",
     "recharts": "^2.12.7",
     "socket.io-client": "^4.7.5",
